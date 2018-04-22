@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Destini</string>
+
+    <string name="T1_story">T1</string>
+    <string name="T1_ans1">Yes</string>
+    <string name="T1_ans2">No</string>
+
+    <string name="T2_story">T2</string>
+    <string name="T2_ans1">Yes</string>
+    <string name="T2_ans2">No</string>
+
+    <string name="T3_story">T3</string>
+    <string name="T3_ans1">Yes T3</string>
+    <string name="T3_ans2">No T3</string>
+
+    <string name="T4_story">T4</string>
+    <string name="T4_ans1">Yes T4</string>
+    <string name="T4_ans2">No T4</string>
+
+    <string name="T5_End">T5 End</string>
+    <string name="T6_End">T6 End</string>
+    <string name="T7_End">T7 End</string>
+    <string name="T8_End">T8 End</string>
+
+
+</resources>
